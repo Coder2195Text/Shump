@@ -5,7 +5,7 @@ from os import path
 img_dir = path.join(path.dirname(__file__), 'img')
 
 WIDTH = 700
-HEIGHT = 700
+HEIGHT = 500
 FPS = 60
 POWERUP_TIME = 7500
 
